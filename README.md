@@ -113,8 +113,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,938 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10 - Deep learning library for Chemistry based on Tensorflow
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,435 | 🐛 13 | 🌐 Python | 📅 2026-08-04 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,941 | 🐛 1,155 | 🌐 Python | 📅 2026-08-10 - Deep learning library for Chemistry based on Tensorflow
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,436 | 🐛 13 | 🌐 Python | 📅 2026-08-04 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 809 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 755 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) ⭐ 705 | 🐛 31 | 🌐 Python | 📅 2023-04-20 - A Library for Deep Learning in Biology and Chemistry.
@@ -239,4 +239,4 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
