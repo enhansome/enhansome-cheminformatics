@@ -72,7 +72,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [ChemPy](https://github.com/bjodah/chempy) ⭐ 656 | 🐛 35 | 🌐 Python | 📅 2026-08-18 - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 * [datamol](https://github.com/datamol-org/datamol) ⭐ 546 | 🐛 13 | 🌐 Python | 📅 2026-05-20: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
-* [Indigo](https://github.com/epam/Indigo) ⭐ 404 | 🐛 747 | 🌐 C++ | 📅 2026-08-18 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [Indigo](https://github.com/epam/Indigo) ⭐ 404 | 🐛 747 | 🌐 C++ | 📅 2026-08-19 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) ⭐ 227 | 🐛 17 | 🌐 Julia | 📅 2026-06-03 - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 * [CGRtools](https://github.com/cimm-kzn/CGRtools) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-10-31 - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
@@ -149,7 +149,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Docking
 
 * [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
-* [DOCKSTRING](https://github.com/dockstring/dockstring) ⭐ 187 | 🐛 8 | 🌐 Python | 📅 2026-05-24 - Automates and standardizes ligand preparation for AutoDock Vina.
+* [DOCKSTRING](https://github.com/dockstring/dockstring) ⭐ 188 | 🐛 8 | 🌐 Python | 📅 2026-05-24 - Automates and standardizes ligand preparation for AutoDock Vina.
 
 <a id="lib-md"></a>
 
@@ -169,7 +169,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) ⭐ 460 | 🐛 30 | 🌐 Python | 📅 2025-12-15 - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 * [OPSIN](https://github.com/dan2097/opsin) ⭐ 229 | 🐛 111 | 🌐 Java | 📅 2026-08-17 - Open Parser for Systematic IUPAC nomenclature
 * [RDchiral](https://github.com/connorcoley/rdchiral) ⭐ 188 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2023-09-18 - Wrapper for RDKit's RunReactants to improve stereochemistry handling
-* [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2026-01-14 - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+* [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2026-01-14 - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 * [confgen](https://github.com/Et9797/confgen-webapp) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2026-01-06 - Webapp for generating conformers
 * [eiR](https://github.com/girke-lab/eiR) ⭐ 4 | 🐛 2 | 🌐 R | 📅 2025-02-11 - Accelerated similarity searching of small molecules
 * [Gypsum-DL](https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl) - a program for converting 2D SMILES strings to 3D models.
