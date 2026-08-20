@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37536320,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:07:00Z",
+                "last_commit": "2026-08-19T18:08:48Z",
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 404
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-17T02:01:15Z",
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1006
+                "stars": 1005
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-10T18:48:19Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6944
+                "stars": 6943
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2023-04-20T05:13:47Z",
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 705
+                "stars": 704
               }
             },
             {
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 113404097,
                 "language": "Python",
-                "last_commit": "2026-08-14T23:14:44Z",
+                "last_commit": "2026-08-19T21:39:05Z",
                 "owner": "hachmannlab",
                 "repo": "chemml",
                 "stars": 180
@@ -360,7 +360,7 @@
                 "last_commit": "2024-09-03T22:09:01Z",
                 "owner": "sustainable-processes",
                 "repo": "summit",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -446,7 +446,7 @@
                 "archived": false,
                 "id": 6604361,
                 "language": "Python",
-                "last_commit": "2026-08-10T22:03:25Z",
+                "last_commit": "2026-08-19T17:25:26Z",
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 729
@@ -513,7 +513,7 @@
                 "archived": false,
                 "id": 253269900,
                 "language": "Java",
-                "last_commit": "2026-08-17T09:52:59Z",
+                "last_commit": "2026-08-19T21:01:31Z",
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 229
@@ -604,7 +604,7 @@
                 "last_commit": "2026-07-23T00:31:07Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1049
+                "stars": 1050
               }
             },
             {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155
+            "stars": 2156
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1433
+            "stars": 1432
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:17.842Z",
+    "last_updated": "2026-08-20T05:08:00.607Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
