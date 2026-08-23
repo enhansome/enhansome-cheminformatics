@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T15:10:14Z",
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 655
+                "stars": 656
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T19:15:13Z",
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 404
+                "stars": 405
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2023-04-20T05:13:47Z",
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 704
+                "stars": 705
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2026-08-19T21:01:31Z",
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 230
+                "stars": 231
               }
             },
             {
@@ -604,7 +604,7 @@
                 "last_commit": "2026-07-23T00:31:07Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1050
+                "stars": 1051
               }
             },
             {
@@ -660,7 +660,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1432
+            "stars": 1433
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:03:01.886Z",
+    "last_updated": "2026-08-23T05:05:20.650Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
