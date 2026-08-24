@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T15:10:14Z",
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 656
+                "stars": 657
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-21T19:15:13Z",
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 405
+                "stars": 406
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-17T02:01:15Z",
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1006
+                "stars": 1007
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2022-09-19T13:40:41Z",
                 "owner": "samoturk",
                 "repo": "mol2vec",
-                "stars": 294
+                "stars": 293
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6950
+                "stars": 6955
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2435
+                "stars": 2437
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2023-04-20T05:13:47Z",
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 705
+                "stars": 706
               }
             },
             {
@@ -501,7 +501,7 @@
                 "last_commit": "2025-12-15T01:15:28Z",
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
-                "stars": 460
+                "stars": 461
               }
             },
             {
@@ -604,7 +604,7 @@
                 "last_commit": "2026-07-23T00:31:07Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1051
+                "stars": 1052
               }
             },
             {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:05:20.650Z",
+    "last_updated": "2026-08-24T05:23:10.728Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
