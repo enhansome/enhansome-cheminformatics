@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37536320,
                 "language": "C++",
-                "last_commit": "2026-08-21T19:15:13Z",
+                "last_commit": "2026-08-24T11:36:16Z",
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406
@@ -439,6 +439,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "razi",
+              "description": "Cheminformatic extension for the SQLAlchemy database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1806184,
+                "language": "Python",
+                "last_commit": "2025-09-11T21:25:28Z",
+                "owner": "rvianello",
+                "repo": "razi",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DOCKSTRING",
+              "description": "Automates and standardizes ligand preparation for AutoDock Vina.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360364612,
+                "language": "Python",
+                "last_commit": "2026-05-24T20:01:22Z",
+                "owner": "dockstring",
+                "repo": "dockstring",
+                "stars": 188
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MDTraj",
               "description": "Analysis of molecular dynamics trajectories.",
               "children": [],
@@ -601,10 +645,10 @@
                 "archived": false,
                 "id": 156864288,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-07-23T00:31:07Z",
+                "last_commit": "2026-08-24T09:52:32Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1052
+                "stars": 1053
               }
             },
             {
@@ -698,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:23:10.728Z",
+    "last_updated": "2026-08-24T14:15:08.908Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
