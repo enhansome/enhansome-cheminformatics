@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6955
+                "stars": 6959
               }
             },
             {
@@ -645,7 +645,7 @@
                 "archived": false,
                 "id": 156864288,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T09:52:32Z",
+                "last_commit": "2026-08-24T15:22:03Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
                 "stars": 1053
@@ -704,7 +704,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1433
+            "stars": 1434
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:08.908Z",
+    "last_updated": "2026-08-25T05:15:29.089Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
