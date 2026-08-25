@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6959
+                "stars": 6958
               }
             },
             {
@@ -689,7 +689,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155
+            "stars": 2154
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:15:29.089Z",
+    "last_updated": "2026-08-25T06:10:33.722Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
