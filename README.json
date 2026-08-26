@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37536320,
                 "language": "C++",
-                "last_commit": "2026-08-24T11:36:16Z",
+                "last_commit": "2026-08-25T15:14:36Z",
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406
@@ -218,7 +218,7 @@
                 "last_commit": "2024-02-07T21:10:44Z",
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 478
+                "stars": 479
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6958
+                "stars": 6960
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2024-09-03T22:09:01Z",
                 "owner": "sustainable-processes",
                 "repo": "summit",
-                "stars": 150
+                "stars": 151
               }
             },
             {
@@ -560,7 +560,7 @@
                 "last_commit": "2026-08-19T21:01:31Z",
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 231
+                "stars": 232
               }
             },
             {
@@ -645,10 +645,10 @@
                 "archived": false,
                 "id": 156864288,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T15:22:03Z",
+                "last_commit": "2026-08-25T15:30:21Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1053
+                "stars": 1054
               }
             },
             {
@@ -689,7 +689,7 @@
             "last_commit": "2026-08-03T16:05:10Z",
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2154
+            "stars": 2155
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:33.722Z",
+    "last_updated": "2026-08-26T05:09:19.290Z",
     "original_repository": "hsiaoyi0504/awesome-cheminformatics",
     "original_repository_id": 73977763,
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
