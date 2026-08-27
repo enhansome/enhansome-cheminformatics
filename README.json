@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37536320,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:14:36Z",
+                "last_commit": "2026-08-26T09:04:40Z",
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406
@@ -114,7 +114,7 @@
                 "last_commit": "2025-11-24T16:35:14Z",
                 "owner": "chembl",
                 "repo": "ChEMBL_Structure_Pipeline",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6960
+                "stars": 6962
               }
             },
             {
@@ -285,7 +285,7 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2437
+                "stars": 2438
               }
             },
             {
@@ -505,7 +505,7 @@
                 "archived": false,
                 "id": 1039662,
                 "language": "Python",
-                "last_commit": "2026-08-13T11:07:03Z",
+                "last_commit": "2026-08-26T07:42:31Z",
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 554
@@ -520,10 +520,10 @@
                 "archived": false,
                 "id": 15514912,
                 "language": "Python",
-                "last_commit": "2026-08-20T18:45:05Z",
+                "last_commit": "2026-08-26T20:47:18Z",
                 "owner": "cclib",
                 "repo": "cclib",
-                "stars": 422
+                "stars": 423
               }
             }
           ],
@@ -645,7 +645,7 @@
                 "archived": false,
                 "id": 156864288,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T15:30:21Z",
+                "last_commit": "2026-08-27T09:19:47Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
                 "stars": 1054
@@ -742,9 +742,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:09:19.290Z",
-    "original_repository": "hsiaoyi0504/awesome-cheminformatics",
-    "original_repository_id": 73977763,
+    "last_updated": "2026-08-27T11:31:05.141Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 73977763,
+      "language": null,
+      "last_commit": "2024-03-15T00:55:18Z",
+      "owner": "hsiaoyi0504",
+      "repo": "awesome-cheminformatics",
+      "stars": 880
+    },
     "original_repository_sha": "0e841736b611df8f173525c4f814a55945bc63c7",
     "enhanced_repository": "enhansome/enhansome-cheminformatics",
     "enhanced_repository_description": null,
