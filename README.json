@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 37536320,
                 "language": "C++",
-                "last_commit": "2026-08-26T09:04:40Z",
+                "last_commit": "2026-08-27T14:55:02Z",
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:05.141Z",
+    "last_updated": "2026-08-27T15:28:34.835Z",
     "original_repository_info": {
       "archived": false,
       "id": 73977763,
