@@ -18,7 +18,8 @@
                 "owner": "bjodah",
                 "repo": "chempy",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-05-20T12:57:45Z",
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 545
-              }
+                "stars": 546
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "mojaie",
                 "repo": "MolecularGraph.jl",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "cimm-kzn",
                 "repo": "CGRtools",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "haddocking",
                 "repo": "pdb-tools",
                 "stars": 457
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -114,8 +120,9 @@
                 "last_commit": "2025-11-24T16:35:14Z",
                 "owner": "chembl",
                 "repo": "ChEMBL_Structure_Pipeline",
-                "stars": 247
-              }
+                "stars": 248
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "mcs07",
                 "repo": "MolVS",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "PatWalters",
                 "repo": "rd_filters",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -166,8 +175,9 @@
                 "last_commit": "2026-08-17T02:01:15Z",
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1007
-              }
+                "stars": 1008
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "EBjerrum",
                 "repo": "rdeditor",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -219,7 +231,8 @@
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "samoturk",
                 "repo": "mol2vec",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "bp-kelley",
                 "repo": "descriptastorus",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -270,8 +285,9 @@
                 "last_commit": "2026-08-20T19:01:34Z",
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6962
-              }
+                "stars": 6966
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -285,8 +301,9 @@
                 "last_commit": "2026-08-21T20:08:40Z",
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2438
-              }
+                "stars": 2439
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
                 "stars": 809
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
                 "stars": 753
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
                 "stars": 706
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "hachmannlab",
                 "repo": "chemml",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "sustainable-processes",
                 "repo": "summit",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "jrash",
                 "repo": "chemmodlab",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -394,11 +417,12 @@
                 "archived": false,
                 "id": 31718339,
                 "language": "R",
-                "last_commit": "2026-08-21T20:59:55Z",
+                "last_commit": "2026-08-27T20:43:29Z",
                 "owner": "ropensci",
                 "repo": "webchem",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "chembl",
                 "repo": "chembl_beaker",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "girke-lab",
                 "repo": "chemminetools",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -450,7 +476,8 @@
                 "owner": "rvianello",
                 "repo": "razi",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -471,8 +498,9 @@
                 "last_commit": "2026-05-24T20:01:22Z",
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 188
-              }
+                "stars": 189
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -494,7 +522,8 @@
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 729
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -509,7 +538,8 @@
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -520,11 +550,12 @@
                 "archived": false,
                 "id": 15514912,
                 "language": "Python",
-                "last_commit": "2026-08-26T20:47:18Z",
+                "last_commit": "2026-08-28T16:13:20Z",
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -546,7 +577,8 @@
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -561,7 +593,8 @@
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -576,7 +609,8 @@
                 "owner": "connorcoley",
                 "repo": "rdchiral",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -591,7 +625,8 @@
                 "owner": "doyle-lab-ucla",
                 "repo": "auto-qchem",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -606,7 +641,8 @@
                 "owner": "Et9797",
                 "repo": "confgen-webapp",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -621,7 +657,8 @@
                 "owner": "girke-lab",
                 "repo": "eiR",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -648,8 +685,9 @@
                 "last_commit": "2026-08-27T09:19:47Z",
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1054
-              }
+                "stars": 1055
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             },
             {
               "node_type": "item",
@@ -664,7 +702,8 @@
                 "owner": "Mishima-syk",
                 "repo": "py4chemoinformatics",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T16:54:34.715Z"
             }
           ],
           "description": null,
@@ -690,7 +729,8 @@
             "owner": "hussius",
             "repo": "deeplearning-biology",
             "stars": 2155
-          }
+          },
+          "first_seen": "2026-08-28T16:54:34.715Z"
         },
         {
           "node_type": "item",
@@ -705,7 +745,8 @@
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
             "stars": 1434
-          }
+          },
+          "first_seen": "2026-08-28T16:54:34.715Z"
         },
         {
           "node_type": "item",
@@ -720,7 +761,8 @@
             "owner": "benb111",
             "repo": "awesome-small-molecule-ml",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T16:54:34.715Z"
         },
         {
           "node_type": "item",
@@ -735,14 +777,15 @@
             "owner": "Thinklab-SJTU",
             "repo": "awesome-molecular-docking",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T16:54:34.715Z"
         }
       ],
       "title": "See Also"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:28:34.835Z",
+    "last_updated": "2026-08-28T16:54:34.715Z",
     "original_repository_info": {
       "archived": false,
       "id": 73977763,
