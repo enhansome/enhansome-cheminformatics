@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T16:13:20Z",
-                "open_issues": 189,
+                "last_commit": "2026-08-29T09:05:31Z",
+                "open_issues": 190,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 423,
@@ -923,7 +923,7 @@
                 "open_issues": 110,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1434,
+            "stars": 1436,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:00.289Z",
+    "last_updated": "2026-08-29T11:20:22.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
