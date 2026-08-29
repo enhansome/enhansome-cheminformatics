@@ -113,7 +113,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,966 | 🐛 1,167 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,967 | 🐛 1,167 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,439 | 🐛 14 | 🌐 Python | 📅 2026-08-21 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 809 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 753 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
@@ -167,7 +167,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Others
 
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) ⭐ 461 | 🐛 30 | 🌐 Python | 📅 2025-12-15 - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
-* [OPSIN](https://github.com/dan2097/opsin) ⭐ 232 | 🐛 110 | 🌐 Java | 📅 2026-08-19 - Open Parser for Systematic IUPAC nomenclature
+* [OPSIN](https://github.com/dan2097/opsin) ⭐ 233 | 🐛 110 | 🌐 Java | 📅 2026-08-19 - Open Parser for Systematic IUPAC nomenclature
 * [RDchiral](https://github.com/connorcoley/rdchiral) ⭐ 188 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2023-09-18 - Wrapper for RDKit's RunReactants to improve stereochemistry handling
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) ⭐ 129 | 🐛 5 | 🌐 Python | 📅 2026-01-14 - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 * [confgen](https://github.com/Et9797/confgen-webapp) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2026-01-06 - Webapp for generating conformers
@@ -239,4 +239,4 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
