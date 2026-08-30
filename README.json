@@ -408,7 +408,7 @@
                 "open_issues": 3,
                 "owner": "bp-kelley",
                 "repo": "descriptastorus",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1167,
+                "open_issues": 1169,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6967,
+                "stars": 6968,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-21T20:08:40Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2439,
+                "stars": 2441,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -520,7 +520,7 @@
                 "open_issues": 17,
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -553,7 +553,7 @@
                 "open_issues": 31,
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 706,
+                "stars": 707,
                 "topics": [
                   "biology",
                   "chainer",
@@ -666,7 +666,7 @@
                 "id": 31718339,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T20:43:29Z",
+                "last_commit": "2026-08-30T05:32:04Z",
                 "open_issues": 60,
                 "owner": "ropensci",
                 "repo": "webchem",
@@ -858,10 +858,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-29T09:05:31Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "cclib",
                 "repo": "cclib",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "computational-chemistry",
                   "python",
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1055,
+                "stars": 1057,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2155,
+            "stars": 2156,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:20:22.828Z",
+    "last_updated": "2026-08-30T10:05:53.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
