@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-18T15:10:14Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "bjodah",
                 "repo": "chempy",
                 "stars": 657,
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T14:55:02Z",
-                "open_issues": 741,
+                "last_commit": "2026-08-30T15:01:43Z",
+                "open_issues": 743,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -362,7 +362,7 @@
                 "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 479,
+                "stars": 480,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -436,7 +436,7 @@
                 "open_issues": 1169,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6968,
+                "stars": 6969,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 15,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2441,
+                "stars": 2443,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -578,7 +578,7 @@
                 "id": 113404097,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-19T21:39:05Z",
+                "last_commit": "2026-08-31T02:12:31Z",
                 "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T09:05:31Z",
-                "open_issues": 191,
+                "last_commit": "2026-08-30T21:55:53Z",
+                "open_issues": 192,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 424,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1057,
+                "stars": 1058,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:05:53.034Z",
+    "last_updated": "2026-08-31T11:07:11.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
