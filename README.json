@@ -17,8 +17,8 @@
                 "id": 36242853,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T13:47:54Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-04T14:23:59Z",
+                "open_issues": 36,
                 "owner": "bjodah",
                 "repo": "chempy",
                 "stars": 657,
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T10:30:17Z",
-                "open_issues": 737,
+                "last_commit": "2026-09-04T13:14:37Z",
+                "open_issues": 734,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -436,7 +436,7 @@
                 "open_issues": 1177,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6973,
+                "stars": 6976,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 18,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2452,
+                "stars": 2454,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -833,7 +833,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T18:58:56Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 555,
@@ -923,7 +923,7 @@
                 "open_issues": 110,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:02:02.297Z",
+    "last_updated": "2026-09-05T08:33:39.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1234,7 +1234,7 @@
       "open_issues": 36,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
-      "stars": 883,
+      "stars": 884,
       "topics": [
         "awesome",
         "awesome-list",
