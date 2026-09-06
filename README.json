@@ -17,8 +17,8 @@
                 "id": 36242853,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-04T14:23:59Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-05T11:01:20Z",
+                "open_issues": 35,
                 "owner": "bjodah",
                 "repo": "chempy",
                 "stars": 657,
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1013,
+                "stars": 1014,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -464,7 +464,7 @@
                 "open_issues": 18,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -667,7 +667,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-30T05:32:04Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "ropensci",
                 "repo": "webchem",
                 "stars": 186,
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T23:54:48Z",
+                "last_commit": "2026-09-05T12:53:39Z",
                 "open_issues": 194,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1163,7 +1163,7 @@
             "open_issues": 5,
             "owner": "benb111",
             "repo": "awesome-small-molecule-ml",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:33:39.108Z",
+    "last_updated": "2026-09-06T08:52:57.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
