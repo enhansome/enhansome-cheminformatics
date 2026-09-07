@@ -50,7 +50,7 @@
                 "open_issues": 3,
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "cheminformatics",
                   "drug-design",
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T13:14:37Z",
-                "open_issues": 734,
+                "last_commit": "2026-09-06T18:16:51Z",
+                "open_issues": 756,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1014,
+                "stars": 1015,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2455,
+                "stars": 2458,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -923,7 +923,7 @@
                 "open_issues": 110,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -965,7 +965,7 @@
                 "open_issues": 5,
                 "owner": "doyle-lab-ucla",
                 "repo": "auto-qchem",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "automation",
                   "cheminformatics",
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:52:57.567Z",
+    "last_updated": "2026-09-07T09:40:54.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1234,7 +1234,7 @@
       "open_issues": 36,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
-      "stars": 884,
+      "stars": 885,
       "topics": [
         "awesome",
         "awesome-list",
