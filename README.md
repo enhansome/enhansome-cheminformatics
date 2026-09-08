@@ -70,9 +70,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### General Purpose
 
-* [ChemPy](https://github.com/bjodah/chempy) ⭐ 657 | 🐛 35 | 🌐 Python | 📅 2026-09-05 - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
-* [datamol](https://github.com/datamol-org/datamol) ⭐ 548 | 🐛 3 | 🌐 Python | 📅 2026-09-03: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
-* [Indigo](https://github.com/epam/Indigo) ⭐ 406 | 🐛 756 | 🌐 C++ | 📅 2026-09-06 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [ChemPy](https://github.com/bjodah/chempy) ⭐ 658 | 🐛 35 | 🌐 Python | 📅 2026-09-05 - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+* [datamol](https://github.com/datamol-org/datamol) ⭐ 549 | 🐛 3 | 🌐 Python | 📅 2026-09-03: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+* [Indigo](https://github.com/epam/Indigo) ⭐ 406 | 🐛 751 | 🌐 C++ | 📅 2026-09-07 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) ⭐ 227 | 🐛 17 | 🌐 Julia | 📅 2026-06-03 - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 * [CGRtools](https://github.com/cimm-kzn/CGRtools) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-10-31 - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
@@ -83,7 +83,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Format Checking
 
-* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-06-10 - A swiss army knife for manipulating and editing PDB files.
+* [pdb-tools](https://github.com/haddocking/pdb-tools) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2026-06-10 - A swiss army knife for manipulating and editing PDB files.
 * [ChEMBL\_Structure\_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) ⭐ 248 | 🐛 9 | 🌐 Python | 📅 2025-11-24 - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) ⭐ 188 | 🐛 23 | 🌐 Python | 📅 2020-04-16 - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 * [rd\_filters](https://github.com/PatWalters/rd_filters) ⭐ 172 | 🐛 6 | 🌐 Python | 📅 2026-02-17 - A script to run structural alerts using the RDKit and ChEMBL
@@ -113,10 +113,10 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,976 | 🐛 1,177 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,458 | 🐛 19 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,978 | 🐛 1,180 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,461 | 🐛 20 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 809 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
-* [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 752 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
+* [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 753 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) ⭐ 707 | 🐛 31 | 🌐 Python | 📅 2023-04-20 - A Library for Deep Learning in Biology and Chemistry.
 * [ChemML](https://github.com/hachmannlab/chemml) ⭐ 180 | 🐛 3 | 🌐 Python | 📅 2026-08-31 - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 * [Summit](https://github.com/sustainable-processes/summit) ⭐ 151 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-09-03 - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
@@ -155,9 +155,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Molecular Dynamics
 
-* [MDTraj](https://github.com/mdtraj/mdtraj) ⭐ 731 | 🐛 88 | 🌐 Python | 📅 2026-08-19 - Analysis of molecular dynamics trajectories.
+* [MDTraj](https://github.com/mdtraj/mdtraj) ⭐ 731 | 🐛 89 | 🌐 Python | 📅 2026-09-07 - Analysis of molecular dynamics trajectories.
 * [ProDy](https://github.com/prody/ProDy) ⭐ 555 | 🐛 38 | 🌐 Python | 📅 2026-09-02 - A Python package for protein dynamics analysis
-* [cclib](https://github.com/cclib/cclib) ⭐ 425 | 🐛 194 | 🌐 Python | 📅 2026-09-05 - Parsers and algorithms for computational chemistry logfiles.
+* [cclib](https://github.com/cclib/cclib) ⭐ 425 | 🐛 194 | 🌐 Python | 📅 2026-09-08 - Parsers and algorithms for computational chemistry logfiles.
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
@@ -183,7 +183,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Courses
 
-* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) ⭐ 1,062 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2026-09-01 - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) ⭐ 1,063 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2026-09-01 - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics) ⭐ 236 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-06-26
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_\(2019\)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
@@ -227,7 +227,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) ⭐ 2,157 | 🐛 0 | 📅 2026-08-03 - Chemoinformatics and drug discovery section in deeplearning-biology repo.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,438 | 🐛 10 | 📅 2025-09-21 - Another list focuses on Python stuff related to Chemistry.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,439 | 🐛 10 | 📅 2025-09-21 - Another list focuses on Python stuff related to Chemistry.
 * [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) ⭐ 243 | 🐛 5 | 📅 2023-11-25 - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
 * [awesome-molecular-docking](https://github.com/yangnianzu0515/awesome-molecular-docking) ⭐ 106 | 🐛 2 | 📅 2023-02-23 - A curated list of molecular docking software, datasets, and other closely related resources.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
@@ -239,4 +239,4 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

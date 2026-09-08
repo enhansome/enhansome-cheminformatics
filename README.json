@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "chemical-formulas",
                   "chemical-kinetics",
@@ -50,7 +50,7 @@
                 "open_issues": 3,
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 548,
+                "stars": 549,
                 "topics": [
                   "cheminformatics",
                   "drug-design",
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T18:16:51Z",
-                "open_issues": 756,
+                "last_commit": "2026-09-07T16:47:58Z",
+                "open_issues": 751,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -176,7 +176,7 @@
                 "open_issues": 4,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1177,
+                "open_issues": 1180,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6976,
+                "stars": 6978,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2458,
+                "stars": 2461,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -520,7 +520,7 @@
                 "open_issues": 17,
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -802,8 +802,8 @@
                 "id": 6604361,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-19T17:25:26Z",
-                "open_issues": 88,
+                "last_commit": "2026-09-07T19:17:55Z",
+                "open_issues": 89,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 731,
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T12:53:39Z",
+                "last_commit": "2026-09-08T00:03:04Z",
                 "open_issues": 194,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:40:54.459Z",
+    "last_updated": "2026-09-08T09:03:49.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
