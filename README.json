@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:47:58Z",
-                "open_issues": 751,
+                "last_commit": "2026-09-08T22:44:26Z",
+                "open_issues": 750,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1015,
+                "stars": 1016,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1180,
+                "open_issues": 1174,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6978,
+                "stars": 6980,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -490,7 +490,7 @@
                 "open_issues": 32,
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "bioinformatics",
                   "cheminformatics",
@@ -803,10 +803,10 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-07T19:17:55Z",
-                "open_issues": 89,
+                "open_issues": 88,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 731,
+                "stars": 732,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -832,8 +832,8 @@
                 "id": 1039662,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T18:58:56Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-09T07:45:49Z",
+                "open_issues": 37,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 555,
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:03:49.861Z",
+    "last_updated": "2026-09-09T09:09:13.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
