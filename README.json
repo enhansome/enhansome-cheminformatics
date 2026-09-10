@@ -46,7 +46,7 @@
                 "id": 341603042,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T16:20:09Z",
+                "last_commit": "2026-09-09T16:42:23Z",
                 "open_issues": 3,
                 "owner": "datamol-io",
                 "repo": "datamol",
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T22:44:26Z",
-                "open_issues": 750,
+                "last_commit": "2026-09-09T19:06:05Z",
+                "open_issues": 751,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 406,
@@ -436,7 +436,7 @@
                 "open_issues": 1174,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6980,
+                "stars": 6983,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2461,
+                "stars": 2462,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -578,7 +578,7 @@
                 "id": 113404097,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-31T19:00:13Z",
+                "last_commit": "2026-09-09T21:28:22Z",
                 "open_issues": 3,
                 "owner": "hachmannlab",
                 "repo": "chemml",
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T00:03:04Z",
+                "last_commit": "2026-09-09T18:58:59Z",
                 "open_issues": 194,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -893,7 +893,7 @@
                 "open_issues": 30,
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "computational-chemistry",
                   "conda-environment",
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1440,
+            "stars": 1439,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:09:13.392Z",
+    "last_updated": "2026-09-10T09:08:31.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
