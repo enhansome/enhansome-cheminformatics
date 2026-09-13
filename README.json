@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1017,
+                "stars": 1018,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -330,7 +330,7 @@
                 "open_issues": 115,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "blueobelisk",
                   "chemistry",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1175,
+                "open_issues": 1179,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6989,
+                "stars": 6990,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-12T00:34:39Z",
-                "open_issues": 192,
+                "last_commit": "2026-09-12T16:29:22Z",
+                "open_issues": 193,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 427,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1109,7 +1109,7 @@
             "id": 60209509,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-03T16:05:10Z",
+            "last_commit": "2026-09-12T17:43:41Z",
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:48:32.309Z",
+    "last_updated": "2026-09-13T09:42:26.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
