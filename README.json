@@ -436,7 +436,7 @@
                 "open_issues": 1179,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 6990,
+                "stars": 6993,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -803,7 +803,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-07T19:17:55Z",
-                "open_issues": 90,
+                "open_issues": 89,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 733,
@@ -832,8 +832,8 @@
                 "id": 1039662,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T07:45:49Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-13T20:16:25Z",
+                "open_issues": 39,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 555,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:42:26.740Z",
+    "last_updated": "2026-09-14T10:06:33.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
