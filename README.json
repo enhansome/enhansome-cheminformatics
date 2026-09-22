@@ -76,7 +76,7 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T23:00:25Z",
+                "last_commit": "2026-09-22T01:48:05Z",
                 "open_issues": 756,
                 "owner": "epam",
                 "repo": "Indigo",
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1018,
+                "stars": 1019,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1180,
+                "open_issues": 1183,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7006,
+                "stars": 7008,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -490,7 +490,7 @@
                 "open_issues": 32,
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "bioinformatics",
                   "cheminformatics",
@@ -803,7 +803,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-18T15:40:35Z",
-                "open_issues": 90,
+                "open_issues": 92,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 735,
@@ -858,7 +858,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-20T18:47:48Z",
-                "open_issues": 194,
+                "open_issues": 195,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 427,
@@ -941,7 +941,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2023-09-18T18:29:36Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "connorcoley",
                 "repo": "rdchiral",
                 "stars": 190,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1441,
+            "stars": 1442,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:11:25.092Z",
+    "last_updated": "2026-09-22T09:28:19.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
