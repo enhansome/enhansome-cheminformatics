@@ -71,8 +71,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### General Purpose
 
 * [ChemPy](https://github.com/bjodah/chempy) ⭐ 658 | 🐛 35 | 🌐 Python | 📅 2026-09-19 - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
-* [datamol](https://github.com/datamol-org/datamol) ⭐ 550 | 🐛 3 | 🌐 Python | 📅 2026-09-09: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
-* [Indigo](https://github.com/epam/Indigo) ⭐ 406 | 🐛 756 | 🌐 C++ | 📅 2026-09-22 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [datamol](https://github.com/datamol-org/datamol) ⭐ 551 | 🐛 3 | 🌐 Python | 📅 2026-09-09: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+* [Indigo](https://github.com/epam/Indigo) ⭐ 406 | 🐛 759 | 🌐 C++ | 📅 2026-09-22 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) ⭐ 228 | 🐛 17 | 🌐 Julia | 📅 2026-06-03 - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 * [CGRtools](https://github.com/cimm-kzn/CGRtools) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-10-31 - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
@@ -92,7 +92,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Visualization
 
-* [3Dmol.js](https://github.com/3dmol/3Dmol.js) ⭐ 1,019 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-09-12 - An object-oriented, webGL based JavaScript library for online molecular visualization.
+* [3Dmol.js](https://github.com/3dmol/3Dmol.js) ⭐ 1,020 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-09-12 - An object-oriented, webGL based JavaScript library for online molecular visualization.
 * [rdeditor](https://github.com/EBjerrum/rdeditor) ⭐ 179 | 🐛 4 | 🌐 Python | 📅 2026-05-03 - Simple RDKit molecule editor GUI using PySide.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) ⭐ 147 | 🐛 115 | 🌐 Java | 📅 2026-04-24 - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
@@ -113,7 +113,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,008 | 🐛 1,183 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,011 | 🐛 1,184 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,469 | 🐛 20 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 811 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 753 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
@@ -155,9 +155,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Molecular Dynamics
 
-* [MDTraj](https://github.com/mdtraj/mdtraj) ⭐ 735 | 🐛 92 | 🌐 Python | 📅 2026-09-18 - Analysis of molecular dynamics trajectories.
-* [ProDy](https://github.com/prody/ProDy) ⭐ 557 | 🐛 38 | 🌐 Python | 📅 2026-09-18 - A Python package for protein dynamics analysis
-* [cclib](https://github.com/cclib/cclib) ⭐ 427 | 🐛 195 | 🌐 Python | 📅 2026-09-20 - Parsers and algorithms for computational chemistry logfiles.
+* [MDTraj](https://github.com/mdtraj/mdtraj) ⭐ 736 | 🐛 92 | 🌐 Python | 📅 2026-09-18 - Analysis of molecular dynamics trajectories.
+* [ProDy](https://github.com/prody/ProDy) ⭐ 557 | 🐛 37 | 🌐 Python | 📅 2026-09-22 - A Python package for protein dynamics analysis
+* [cclib](https://github.com/cclib/cclib) ⭐ 428 | 🐛 195 | 🌐 Python | 📅 2026-09-20 - Parsers and algorithms for computational chemistry logfiles.
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
@@ -183,7 +183,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Courses
 
-* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) ⭐ 1,070 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2026-09-01 - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) ⭐ 1,072 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2026-09-01 - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics) ⭐ 236 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-06-26
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_\(2019\)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
@@ -239,4 +239,4 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
