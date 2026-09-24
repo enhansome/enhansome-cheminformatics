@@ -76,7 +76,7 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T21:59:51Z",
+                "last_commit": "2026-09-23T16:31:22Z",
                 "open_issues": 759,
                 "owner": "epam",
                 "repo": "Indigo",
@@ -206,7 +206,7 @@
                 "open_issues": 9,
                 "owner": "chembl",
                 "repo": "ChEMBL_Structure_Pipeline",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1184,
+                "open_issues": 1186,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7011,
+                "stars": 7012,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -778,7 +778,7 @@
                 "open_issues": 8,
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -803,7 +803,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-18T15:40:35Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 736,
@@ -836,7 +836,7 @@
                 "open_issues": 37,
                 "owner": "prody",
                 "repo": "ProDy",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "dynamics",
                   "protein",
@@ -858,7 +858,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-20T18:47:48Z",
-                "open_issues": 195,
+                "open_issues": 196,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 428,
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:30:45.831Z",
+    "last_updated": "2026-09-24T09:30:14.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
