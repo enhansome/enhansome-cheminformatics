@@ -50,7 +50,7 @@
                 "open_issues": 3,
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "cheminformatics",
                   "drug-design",
@@ -80,7 +80,7 @@
                 "open_issues": 757,
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 406,
+                "stars": 407,
                 "topics": [
                   "bingo",
                   "cheminformatics",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1190,
+                "open_issues": 1194,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7018,
+                "stars": 7019,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -490,7 +490,7 @@
                 "open_issues": 32,
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "bioinformatics",
                   "cheminformatics",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:31:09.045Z",
+    "last_updated": "2026-09-27T10:11:15.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
