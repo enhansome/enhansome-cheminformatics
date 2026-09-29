@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:42:12Z",
-                "open_issues": 756,
+                "last_commit": "2026-09-29T08:17:04Z",
+                "open_issues": 759,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 407,
@@ -326,8 +326,8 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-04-24T08:19:25Z",
-                "open_issues": 115,
+                "last_commit": "2026-09-28T20:14:01Z",
+                "open_issues": 116,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
                 "stars": 147,
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1194,
+                "open_issues": 1204,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7020,
+                "stars": 7023,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -893,7 +893,7 @@
                 "open_issues": 30,
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "computational-chemistry",
                   "conda-environment",
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1442,
+            "stars": 1443,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:12:35.998Z",
+    "last_updated": "2026-09-29T10:53:15.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1231,7 +1231,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-03-15T00:55:18Z",
-      "open_issues": 36,
+      "open_issues": 35,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
       "stars": 887,
