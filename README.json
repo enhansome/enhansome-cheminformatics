@@ -76,11 +76,11 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T08:17:04Z",
-                "open_issues": 759,
+                "last_commit": "2026-09-30T10:39:30Z",
+                "open_issues": 764,
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "bingo",
                   "cheminformatics",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1204,
+                "open_issues": 1206,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7023,
+                "stars": 7024,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 20,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2470,
+                "stars": 2471,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T07:00:45Z",
-                "open_issues": 199,
+                "last_commit": "2026-09-30T04:27:03Z",
+                "open_issues": 200,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 428,
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:53:15.868Z",
+    "last_updated": "2026-09-30T10:42:34.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1231,7 +1231,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-03-15T00:55:18Z",
-      "open_issues": 35,
+      "open_issues": 34,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
       "stars": 887,
