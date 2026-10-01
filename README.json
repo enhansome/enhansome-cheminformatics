@@ -76,7 +76,7 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T10:39:30Z",
+                "last_commit": "2026-09-30T21:31:04Z",
                 "open_issues": 764,
                 "owner": "epam",
                 "repo": "Indigo",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1206,
+                "open_issues": 1209,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7024,
+                "stars": 7025,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2471,
+                "stars": 2473,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1075,
+                "stars": 1074,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:42:34.413Z",
+    "last_updated": "2026-10-01T11:09:22.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
