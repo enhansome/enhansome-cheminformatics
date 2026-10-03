@@ -94,7 +94,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) ⭐ 1,021 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2026-09-12 - An object-oriented, webGL based JavaScript library for online molecular visualization.
 * [rdeditor](https://github.com/EBjerrum/rdeditor) ⭐ 180 | 🐛 4 | 🌐 Python | 📅 2026-05-03 - Simple RDKit molecule editor GUI using PySide.
-* [JChemPaint](https://github.com/JChemPaint/jchempaint) ⭐ 147 | 🐛 116 | 🌐 Java | 📅 2026-09-28 - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+* [JChemPaint](https://github.com/JChemPaint/jchempaint) ⭐ 147 | 🐛 115 | 🌐 Java | 📅 2026-10-03 - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
 * [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
@@ -113,7 +113,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,032 | 🐛 1,210 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,032 | 🐛 1,209 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
 * [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,473 | 🐛 21 | 🌐 Python | 📅 2026-09-01 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 812 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 753 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.

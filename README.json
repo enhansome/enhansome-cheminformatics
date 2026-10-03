@@ -326,8 +326,8 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-09-28T20:14:01Z",
-                "open_issues": 116,
+                "last_commit": "2026-10-03T07:51:04Z",
+                "open_issues": 115,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
                 "stars": 147,
@@ -433,7 +433,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1210,
+                "open_issues": 1209,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7032,
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:09.840Z",
+    "last_updated": "2026-10-03T10:01:50.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
