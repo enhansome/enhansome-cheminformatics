@@ -77,7 +77,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T19:16:52Z",
-                "open_issues": 766,
+                "open_issues": 768,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 408,
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1211,
+                "open_issues": 1210,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7027,
+                "stars": 7032,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T19:41:29Z",
-                "open_issues": 201,
+                "last_commit": "2026-10-02T18:12:34Z",
+                "open_issues": 202,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 428,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1061,7 +1061,7 @@
             {
               "node_type": "item",
               "title": "Python for chemoinformatics",
-              "description": null,
+              "description": "Mishima-syk/py4chemoinformatics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:42:50.543Z",
+    "last_updated": "2026-10-03T04:38:09.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
