@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T19:16:52Z",
-                "open_issues": 768,
+                "last_commit": "2026-10-05T11:03:31Z",
+                "open_issues": 776,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 408,
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -436,7 +436,7 @@
                 "open_issues": 1209,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7034,
+                "stars": 7035,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T18:58:10Z",
-                "open_issues": 196,
+                "last_commit": "2026-10-05T08:52:10Z",
+                "open_issues": 198,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 428,
@@ -919,8 +919,8 @@
                 "id": 253269900,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-20T21:18:17Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-04T20:52:17Z",
+                "open_issues": 102,
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 241,
@@ -1134,7 +1134,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1444,
+            "stars": 1445,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:44:33.743Z",
+    "last_updated": "2026-10-05T11:49:00.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
