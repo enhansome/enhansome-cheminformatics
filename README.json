@@ -76,7 +76,7 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T08:16:01Z",
+                "last_commit": "2026-10-09T10:26:53Z",
                 "open_issues": 783,
                 "owner": "epam",
                 "repo": "Indigo",
@@ -326,7 +326,7 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-07T16:23:19Z",
+                "last_commit": "2026-10-09T09:54:04Z",
                 "open_issues": 116,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
@@ -362,7 +362,7 @@
                 "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1219,
+                "open_issues": 1221,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7042,
+                "stars": 7046,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,10 +461,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-01T22:43:41Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2477,
+                "stars": 2478,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -610,7 +610,7 @@
                 "open_issues": 12,
                 "owner": "sustainable-processes",
                 "repo": "summit",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "bayesian-optimization",
                   "chemistry",
@@ -667,7 +667,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-30T05:32:04Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "ropensci",
                 "repo": "webchem",
                 "stars": 186,
@@ -1053,7 +1053,7 @@
                 "open_issues": 59,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1077,
+                "stars": 1079,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2160,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:35:35.359Z",
+    "last_updated": "2026-10-09T11:29:39.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
