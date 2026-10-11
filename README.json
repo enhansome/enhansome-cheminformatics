@@ -77,10 +77,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T10:26:53Z",
-                "open_issues": 798,
+                "open_issues": 799,
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 408,
+                "stars": 409,
                 "topics": [
                   "bingo",
                   "cheminformatics",
@@ -283,7 +283,7 @@
                 "open_issues": 44,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
-                "stars": 1025,
+                "stars": 1026,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -326,8 +326,8 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-10T09:12:12Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-11T09:03:01Z",
+                "open_issues": 115,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
                 "stars": 147,
@@ -362,7 +362,7 @@
                 "open_issues": 55,
                 "owner": "mordred-descriptor",
                 "repo": "mordred",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,7 +433,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1223,
+                "open_issues": 1228,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7049,
@@ -464,7 +464,7 @@
                 "open_issues": 21,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2485,
+                "stars": 2493,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -833,7 +833,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-04T08:01:10Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 558,
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-10T00:59:50Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-11T09:11:39Z",
+                "open_issues": 204,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 428,
@@ -919,8 +919,8 @@
                 "id": 253269900,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-05T23:43:24Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-11T10:18:46Z",
+                "open_issues": 98,
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 241,
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2159,
+            "stars": 2160,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:47:11.666Z",
+    "last_updated": "2026-10-11T10:59:47.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
