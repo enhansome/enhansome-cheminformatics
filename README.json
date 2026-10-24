@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T20:34:34Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-23T23:43:55Z",
+                "open_issues": 786,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 411,
@@ -113,8 +113,8 @@
                 "id": 151080560,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-22T11:55:15Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-24T00:16:39Z",
+                "open_issues": 17,
                 "owner": "mojaie",
                 "repo": "MolecularGraph.jl",
                 "stars": 230,
@@ -173,7 +173,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-10T05:01:05Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
                 "stars": 461,
@@ -433,7 +433,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1258,
+                "open_issues": 1259,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7081,
@@ -520,7 +520,7 @@
                 "open_issues": 17,
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
-                "stars": 754,
+                "stars": 755,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -553,7 +553,7 @@
                 "open_issues": 31,
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 711,
+                "stars": 710,
                 "topics": [
                   "biology",
                   "chainer",
@@ -610,7 +610,7 @@
                 "open_issues": 12,
                 "owner": "sustainable-processes",
                 "repo": "summit",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "bayesian-optimization",
                   "chemistry",
@@ -806,7 +806,7 @@
                 "open_issues": 96,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T00:52:50Z",
+                "last_commit": "2026-10-23T17:46:53Z",
                 "open_issues": 212,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2163,
+            "stars": 2162,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T09:32:17.252Z",
+    "last_updated": "2026-10-24T09:05:36.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1234,7 +1234,7 @@
       "open_issues": 34,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
-      "stars": 892,
+      "stars": 893,
       "topics": [
         "awesome",
         "awesome-list",
