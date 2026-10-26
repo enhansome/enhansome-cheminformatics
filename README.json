@@ -77,7 +77,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T10:47:16Z",
-                "open_issues": 703,
+                "open_issues": 707,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 411,
@@ -113,8 +113,8 @@
                 "id": 151080560,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-10-24T15:10:34Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-26T10:11:14Z",
+                "open_issues": 12,
                 "owner": "mojaie",
                 "repo": "MolecularGraph.jl",
                 "stars": 230,
@@ -206,7 +206,7 @@
                 "open_issues": 9,
                 "owner": "chembl",
                 "repo": "ChEMBL_Structure_Pipeline",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1261,
+                "open_issues": 1262,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7086,
+                "stars": 7090,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2512,
+                "stars": 2514,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -806,7 +806,7 @@
                 "open_issues": 97,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -857,8 +857,8 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-25T01:05:43Z",
-                "open_issues": 212,
+                "last_commit": "2026-10-26T09:53:38Z",
+                "open_issues": 211,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 431,
@@ -919,11 +919,11 @@
                 "id": 253269900,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-24T22:03:03Z",
-                "open_issues": 103,
+                "last_commit": "2026-10-25T22:09:46Z",
+                "open_issues": 102,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1049,11 +1049,11 @@
                 "id": 156864288,
                 "language": "Jupyter Notebook",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-01T21:14:23Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-26T10:21:46Z",
+                "open_issues": 56,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1086,
+                "stars": 1087,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:22:30.614Z",
+    "last_updated": "2026-10-26T10:28:59.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
