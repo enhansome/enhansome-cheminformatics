@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T21:02:33Z",
-                "open_issues": 714,
+                "last_commit": "2026-10-30T20:18:09Z",
+                "open_issues": 718,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 413,
@@ -436,7 +436,7 @@
                 "open_issues": 1266,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7109,
+                "stars": 7111,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 28,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2514,
+                "stars": 2515,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -803,10 +803,10 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-26T22:18:42Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -920,7 +920,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-28T14:08:18Z",
-                "open_issues": 101,
+                "open_issues": 103,
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 244,
@@ -1049,8 +1049,8 @@
                 "id": 156864288,
                 "language": "Jupyter Notebook",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-30T09:16:04Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-30T20:31:39Z",
+                "open_issues": 58,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
                 "stars": 1092,
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2164,
+            "stars": 2165,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:00:23.700Z",
+    "last_updated": "2026-10-31T10:34:26.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1231,7 +1231,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-03-15T00:55:18Z",
-      "open_issues": 35,
+      "open_issues": 36,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
       "stars": 895,
