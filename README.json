@@ -76,7 +76,7 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T20:18:09Z",
+                "last_commit": "2026-10-31T20:09:03Z",
                 "open_issues": 718,
                 "owner": "epam",
                 "repo": "Indigo",
@@ -173,7 +173,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-10T05:01:05Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
                 "stars": 461,
@@ -436,7 +436,7 @@
                 "open_issues": 1266,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7111,
+                "stars": 7115,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -836,7 +836,7 @@
                 "open_issues": 39,
                 "owner": "prody",
                 "repo": "ProDy",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "dynamics",
                   "protein",
@@ -923,7 +923,7 @@
                 "open_issues": 103,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 244,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:34:26.872Z",
+    "last_updated": "2026-11-01T11:28:15.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
