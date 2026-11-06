@@ -50,7 +50,7 @@
                 "open_issues": 4,
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "cheminformatics",
                   "drug-design",
@@ -76,11 +76,11 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T11:34:54Z",
-                "open_issues": 716,
+                "last_commit": "2026-11-06T09:24:29Z",
+                "open_issues": 717,
                 "owner": "epam",
                 "repo": "Indigo",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "bingo",
                   "cheminformatics",
@@ -117,7 +117,7 @@
                 "open_issues": 13,
                 "owner": "mojaie",
                 "repo": "MolecularGraph.jl",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "cheminformatics",
                   "chemistry",
@@ -176,7 +176,7 @@
                 "open_issues": 5,
                 "owner": "haddocking",
                 "repo": "pdb-tools",
-                "stars": 462,
+                "stars": 461,
                 "topics": [
                   "bioinformatics",
                   "pdb",
@@ -227,7 +227,7 @@
                 "open_issues": 23,
                 "owner": "mcs07",
                 "repo": "MolVS",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "cheminformatics",
                   "chemistry",
@@ -408,7 +408,7 @@
                 "open_issues": 4,
                 "owner": "bp-kelley",
                 "repo": "descriptastorus",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1272,
+                "open_issues": 1273,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7124,
+                "stars": 7125,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2517,
+                "stars": 2519,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -490,7 +490,7 @@
                 "open_issues": 32,
                 "owner": "awslabs",
                 "repo": "dgl-lifesci",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "bioinformatics",
                   "cheminformatics",
@@ -520,7 +520,7 @@
                 "open_issues": 17,
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
-                "stars": 760,
+                "stars": 761,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -553,7 +553,7 @@
                 "open_issues": 31,
                 "owner": "chainer",
                 "repo": "chainer-chemistry",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "biology",
                   "chainer",
@@ -670,7 +670,7 @@
                 "open_issues": 57,
                 "owner": "ropensci",
                 "repo": "webchem",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "cas-number",
                   "chemical-information",
@@ -778,7 +778,7 @@
                 "open_issues": 8,
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 193,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -806,7 +806,7 @@
                 "open_issues": 120,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 743,
+                "stars": 744,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T14:25:18Z",
+                "last_commit": "2026-11-05T22:07:14Z",
                 "open_issues": 218,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -923,7 +923,7 @@
                 "open_issues": 104,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 245,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -944,7 +944,7 @@
                 "open_issues": 23,
                 "owner": "connorcoley",
                 "repo": "rdchiral",
-                "stars": 191,
+                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1074,7 +1074,7 @@
                 "open_issues": 2,
                 "owner": "Mishima-syk",
                 "repo": "py4chemoinformatics",
-                "stars": 235,
+                "stars": 236,
                 "topics": [
                   "cheminformatics",
                   "chemoinformatics",
@@ -1134,7 +1134,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1450,
+            "stars": 1452,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:42:53.429Z",
+    "last_updated": "2026-11-06T12:25:27.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1234,7 +1234,7 @@
       "open_issues": 36,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
-      "stars": 893,
+      "stars": 895,
       "topics": [
         "awesome",
         "awesome-list",
