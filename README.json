@@ -21,7 +21,7 @@
                 "open_issues": 44,
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 659,
+                "stars": 660,
                 "topics": [
                   "chemical-formulas",
                   "chemical-kinetics",
@@ -326,7 +326,7 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-10-30T09:50:54Z",
+                "last_commit": "2026-11-08T07:29:24Z",
                 "open_issues": 112,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1277,
+                "open_issues": 1278,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7127,
+                "stars": 7131,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 26,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2520,
+                "stars": 2521,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -610,7 +610,7 @@
                 "open_issues": 12,
                 "owner": "sustainable-processes",
                 "repo": "summit",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "bayesian-optimization",
                   "chemistry",
@@ -858,7 +858,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T22:07:14Z",
-                "open_issues": 217,
+                "open_issues": 218,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 433,
@@ -1053,7 +1053,7 @@
                 "open_issues": 60,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:18:04.315Z",
+    "last_updated": "2026-11-08T11:29:40.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
