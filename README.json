@@ -21,7 +21,7 @@
                 "open_issues": 44,
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "chemical-formulas",
                   "chemical-kinetics",
@@ -279,7 +279,7 @@
                 "id": 24733345,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T03:52:11Z",
+                "last_commit": "2026-11-15T05:15:21Z",
                 "open_issues": 45,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
@@ -326,11 +326,11 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-08T07:29:24Z",
-                "open_issues": 112,
+                "last_commit": "2026-11-15T12:13:41Z",
+                "open_issues": 113,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "blueobelisk",
                   "chemistry",
@@ -433,7 +433,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1294,
+                "open_issues": 1295,
                 "owner": "deepchem",
                 "repo": "deepchem",
                 "stars": 7146,
@@ -670,7 +670,7 @@
                 "open_issues": 57,
                 "owner": "ropensci",
                 "repo": "webchem",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "cas-number",
                   "chemical-information",
@@ -858,7 +858,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-12T20:04:34Z",
-                "open_issues": 217,
+                "open_issues": 218,
                 "owner": "cclib",
                 "repo": "cclib",
                 "stars": 434,
@@ -919,8 +919,8 @@
                 "id": 253269900,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-04T02:07:56Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-14T22:39:34Z",
+                "open_issues": 104,
                 "owner": "dan2097",
                 "repo": "opsin",
                 "stars": 247,
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2166,
+            "stars": 2167,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:43:39.990Z",
+    "last_updated": "2026-11-15T12:13:48.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
