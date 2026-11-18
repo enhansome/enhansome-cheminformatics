@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T12:47:35Z",
-                "open_issues": 718,
+                "last_commit": "2026-11-17T14:35:18Z",
+                "open_issues": 720,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 416,
@@ -436,7 +436,7 @@
                 "open_issues": 1297,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7151,
+                "stars": 7152,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2532,
+                "stars": 2531,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -806,7 +806,7 @@
                 "open_issues": 122,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 747,
+                "stars": 746,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -832,7 +832,7 @@
                 "id": 1039662,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T21:36:16Z",
+                "last_commit": "2026-11-18T11:46:05Z",
                 "open_issues": 40,
                 "owner": "prody",
                 "repo": "ProDy",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:49:07.765Z",
+    "last_updated": "2026-11-18T13:24:07.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
