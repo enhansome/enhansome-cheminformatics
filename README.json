@@ -21,7 +21,7 @@
                 "open_issues": 44,
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 660,
+                "stars": 659,
                 "topics": [
                   "chemical-formulas",
                   "chemical-kinetics",
@@ -46,11 +46,11 @@
                 "id": 341603042,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T16:42:23Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-20T14:35:33Z",
+                "open_issues": 3,
                 "owner": "datamol-io",
                 "repo": "datamol",
-                "stars": 559,
+                "stars": 560,
                 "topics": [
                   "cheminformatics",
                   "drug-design",
@@ -113,8 +113,8 @@
                 "id": 151080560,
                 "language": "Julia",
                 "license": "MIT",
-                "last_commit": "2026-11-09T03:51:51Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-21T08:57:15Z",
+                "open_issues": 12,
                 "owner": "mojaie",
                 "repo": "MolecularGraph.jl",
                 "stars": 232,
@@ -279,7 +279,7 @@
                 "id": 24733345,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-15T19:19:03Z",
+                "last_commit": "2026-11-21T01:05:59Z",
                 "open_issues": 45,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
@@ -326,7 +326,7 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-19T10:52:51Z",
+                "last_commit": "2026-11-21T08:35:15Z",
                 "open_issues": 113,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
@@ -436,7 +436,7 @@
                 "open_issues": 1298,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7152,
+                "stars": 7153,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2532,
+                "stars": 2535,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -857,11 +857,11 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T03:34:17Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-20T23:50:37Z",
+                "open_issues": 221,
                 "owner": "cclib",
                 "repo": "cclib",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "computational-chemistry",
                   "python",
@@ -923,7 +923,7 @@
                 "open_issues": 112,
                 "owner": "dan2097",
                 "repo": "opsin",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1456,
+            "stars": 1458,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:33:30.258Z",
+    "last_updated": "2026-11-21T12:58:40.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
@@ -1234,7 +1234,7 @@
       "open_issues": 36,
       "owner": "hsiaoyi0504",
       "repo": "awesome-cheminformatics",
-      "stars": 897,
+      "stars": 899,
       "topics": [
         "awesome",
         "awesome-list",
