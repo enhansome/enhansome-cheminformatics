@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T00:22:34Z",
-                "open_issues": 729,
+                "last_commit": "2026-11-23T13:17:21Z",
+                "open_issues": 730,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 415,
@@ -279,7 +279,7 @@
                 "id": 24733345,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T15:04:12Z",
+                "last_commit": "2026-11-23T01:34:08Z",
                 "open_issues": 45,
                 "owner": "3dmol",
                 "repo": "3Dmol.js",
@@ -326,8 +326,8 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-22T12:32:18Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-23T13:28:55Z",
+                "open_issues": 113,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
                 "stars": 150,
@@ -408,7 +408,7 @@
                 "open_issues": 4,
                 "owner": "bp-kelley",
                 "repo": "descriptastorus",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -436,7 +436,7 @@
                 "open_issues": 1299,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7154,
+                "stars": 7156,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 27,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2535,
+                "stars": 2537,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -520,7 +520,7 @@
                 "open_issues": 17,
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "computational-biology",
                   "computational-chemistry",
@@ -778,7 +778,7 @@
                 "open_issues": 8,
                 "owner": "dockstring",
                 "repo": "dockstring",
-                "stars": 192,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -803,7 +803,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-03T14:06:47Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
                 "stars": 745,
@@ -857,11 +857,11 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-22T00:31:19Z",
+                "last_commit": "2026-11-23T06:26:53Z",
                 "open_issues": 219,
                 "owner": "cclib",
                 "repo": "cclib",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "computational-chemistry",
                   "python",
@@ -893,7 +893,7 @@
                 "open_issues": 30,
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "computational-chemistry",
                   "conda-environment",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:50:13.126Z",
+    "last_updated": "2026-11-23T15:19:02.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
