@@ -72,7 +72,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [ChemPy](https://github.com/bjodah/chempy) ⭐ 659 | 🐛 44 | 🌐 Python | 📅 2026-10-21 - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 * [datamol](https://github.com/datamol-org/datamol) ⭐ 560 | 🐛 3 | 🌐 Python | 📅 2026-11-20: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
-* [Indigo](https://github.com/epam/Indigo) ⭐ 415 | 🐛 730 | 🌐 C++ | 📅 2026-11-23 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [Indigo](https://github.com/epam/Indigo) ⭐ 415 | 🐛 725 | 🌐 C++ | 📅 2026-11-24 - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) ⭐ 232 | 🐛 12 | 🌐 Julia | 📅 2026-11-21 - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 * [CGRtools](https://github.com/cimm-kzn/CGRtools) ⭐ 53 | 🐛 3 | 🌐 Python | 📅 2022-10-31 - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
@@ -94,7 +94,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) ⭐ 1,038 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2026-11-23 - An object-oriented, webGL based JavaScript library for online molecular visualization.
 * [rdeditor](https://github.com/EBjerrum/rdeditor) ⭐ 181 | 🐛 4 | 🌐 Python | 📅 2026-05-03 - Simple RDKit molecule editor GUI using PySide.
-* [JChemPaint](https://github.com/JChemPaint/jchempaint) ⭐ 150 | 🐛 113 | 🌐 Java | 📅 2026-11-23 - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+* [JChemPaint](https://github.com/JChemPaint/jchempaint) ⭐ 150 | 🐛 114 | 🌐 Java | 📅 2026-11-24 - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
 * [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
@@ -113,12 +113,12 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,156 | 🐛 1,299 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
-* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,537 | 🐛 27 | 🌐 Python | 📅 2026-11-12 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 7,156 | 🐛 1,295 | 🌐 Python | 📅 2026-08-20 - Deep learning library for Chemistry based on Tensorflow
+* [Chemprop](https://github.com/chemprop/chemprop) ⭐ 2,536 | 🐛 27 | 🌐 Python | 📅 2026-11-12 - Directed message passing neural networks for property prediction of molecules and reactions with uncertainty and interpretation.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) ⭐ 812 | 🐛 32 | 🌐 Python | 📅 2023-11-01 - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) ⭐ 765 | 🐛 17 | 🌐 Python | 📅 2023-11-26 - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) ⭐ 716 | 🐛 31 | 🌐 Python | 📅 2023-04-20 - A Library for Deep Learning in Biology and Chemistry.
-* [ChemML](https://github.com/hachmannlab/chemml) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-11-04 - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+* [ChemML](https://github.com/hachmannlab/chemml) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-11-23 - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 * [Summit](https://github.com/sustainable-processes/summit) ⭐ 156 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-09-03 - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 * [chemmodlab](https://github.com/jrash/ChemModLab) ⭐ 18 | 🐛 0 | 🌐 R | 📅 2025-11-20 - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 * [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
@@ -157,7 +157,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [MDTraj](https://github.com/mdtraj/mdtraj) ⭐ 745 | 🐛 129 | 🌐 Python | 📅 2026-11-03 - Analysis of molecular dynamics trajectories.
 * [ProDy](https://github.com/prody/ProDy) ⭐ 562 | 🐛 41 | 🌐 Python | 📅 2026-11-20 - A Python package for protein dynamics analysis
-* [cclib](https://github.com/cclib/cclib) ⭐ 434 | 🐛 219 | 🌐 Python | 📅 2026-11-23 - Parsers and algorithms for computational chemistry logfiles.
+* [cclib](https://github.com/cclib/cclib) ⭐ 434 | 🐛 221 | 🌐 Python | 📅 2026-11-23 - Parsers and algorithms for computational chemistry logfiles.
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
@@ -167,8 +167,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Others
 
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) ⭐ 467 | 🐛 30 | 🌐 Python | 📅 2025-12-15 - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
-* [OPSIN](https://github.com/dan2097/opsin) ⭐ 248 | 🐛 111 | 🌐 Java | 📅 2026-11-21 - Open Parser for Systematic IUPAC nomenclature
-* [RDchiral](https://github.com/connorcoley/rdchiral) ⭐ 193 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-09-18 - Wrapper for RDKit's RunReactants to improve stereochemistry handling
+* [OPSIN](https://github.com/dan2097/opsin) ⭐ 249 | 🐛 111 | 🌐 Java | 📅 2026-11-21 - Open Parser for Systematic IUPAC nomenclature
+* [RDchiral](https://github.com/connorcoley/rdchiral) ⭐ 194 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-09-18 - Wrapper for RDKit's RunReactants to improve stereochemistry handling
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) ⭐ 134 | 🐛 5 | 🌐 Python | 📅 2026-01-14 - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 * [confgen](https://github.com/Et9797/confgen-webapp) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2026-01-06 - Webapp for generating conformers
 * [eiR](https://github.com/girke-lab/eiR) ⭐ 4 | 🐛 2 | 🌐 R | 📅 2025-02-11 - Accelerated similarity searching of small molecules
@@ -239,4 +239,4 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
