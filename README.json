@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T21:23:08Z",
-                "open_issues": 727,
+                "last_commit": "2026-11-26T13:47:48Z",
+                "open_issues": 726,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 415,
@@ -436,7 +436,7 @@
                 "open_issues": 1297,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7160,
+                "stars": 7161,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -461,7 +461,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-12T20:01:46Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "chemprop",
                 "repo": "chemprop",
                 "stars": 2536,
@@ -833,7 +833,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T10:27:44Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 562,
@@ -857,7 +857,7 @@
                 "id": 15514912,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T23:04:20Z",
+                "last_commit": "2026-11-25T21:13:25Z",
                 "open_issues": 222,
                 "owner": "cclib",
                 "repo": "cclib",
@@ -1053,7 +1053,7 @@
                 "open_issues": 61,
                 "owner": "volkamerlab",
                 "repo": "teachopencadd",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1113,7 +1113,7 @@
             "open_issues": 0,
             "owner": "hussius",
             "repo": "deeplearning-biology",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T16:54:34.715Z"
@@ -1134,7 +1134,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1460,
+            "stars": 1461,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:53:54.393Z",
+    "last_updated": "2026-11-26T14:23:51.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
