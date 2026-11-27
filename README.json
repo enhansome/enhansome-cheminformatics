@@ -21,7 +21,7 @@
                 "open_issues": 44,
                 "owner": "bjodah",
                 "repo": "chempy",
-                "stars": 659,
+                "stars": 660,
                 "topics": [
                   "chemical-formulas",
                   "chemical-kinetics",
@@ -76,8 +76,8 @@
                 "id": 37536320,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:47:48Z",
-                "open_issues": 726,
+                "last_commit": "2026-11-26T20:48:06Z",
+                "open_issues": 719,
                 "owner": "epam",
                 "repo": "Indigo",
                 "stars": 415,
@@ -326,7 +326,7 @@
                 "id": 4408504,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-11-24T21:57:18Z",
+                "last_commit": "2026-11-26T21:23:15Z",
                 "open_issues": 114,
                 "owner": "JChemPaint",
                 "repo": "jchempaint",
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T19:01:34Z",
-                "open_issues": 1297,
+                "open_issues": 1300,
                 "owner": "deepchem",
                 "repo": "deepchem",
-                "stars": 7161,
+                "stars": 7162,
                 "topics": [
                   "biology",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 28,
                 "owner": "chemprop",
                 "repo": "chemprop",
-                "stars": 2536,
+                "stars": 2537,
                 "topics": [
                   "chemistry",
                   "drug-discovery",
@@ -806,7 +806,7 @@
                 "open_issues": 129,
                 "owner": "mdtraj",
                 "repo": "mdtraj",
-                "stars": 745,
+                "stars": 746,
                 "topics": [
                   "dihedral-angles",
                   "mdtraj",
@@ -833,7 +833,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-20T10:27:44Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "prody",
                 "repo": "ProDy",
                 "stars": 562,
@@ -893,7 +893,7 @@
                 "open_issues": 30,
                 "owner": "MolSSI",
                 "repo": "cookiecutter-cms",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "computational-chemistry",
                   "conda-environment",
@@ -1074,7 +1074,7 @@
                 "open_issues": 2,
                 "owner": "Mishima-syk",
                 "repo": "py4chemoinformatics",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "cheminformatics",
                   "chemoinformatics",
@@ -1222,7 +1222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:23:51.627Z",
+    "last_updated": "2026-11-27T14:17:10.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Cheminformatics libraries and software.",
